@@ -1,4 +1,4 @@
-**🎓 Ruhan Wallace**, conhecido como **Barru**. Sou bacharel em Direito, mas minha paixão pela tecnologia me levou a explorar e mergulhar de cabeça nesse universo. Atualmente, estou me dedicando a aprender e criar soluções utilizando**HTML**, **CSS** e **JavaScript**, com o objetivo de expandir minhas habilidades no desenvolvimento de software.
+**🎓 Ruhan Wallace**, conhecido como **Barru**. Sou bacharel em Direito, mas minha paixão pela tecnologia me levou a explorar e mergulhar de cabeça nesse universo. Atualmente, estou me dedicando a aprender e criar soluções utilizando **HTML**, **CSS** e **JavaScript**, com o objetivo de expandir minhas habilidades no desenvolvimento de software.
 
 💡 Acredito no poder da adaptação e no aprendizado constante, e estou sempre aberto a novos desafios e oportunidades para crescer.
 
