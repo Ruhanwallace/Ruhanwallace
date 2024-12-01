@@ -9,6 +9,12 @@
   <img align="center" alt="Ruhan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ruhan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  </div>
+ <br>
+ <div align="center">
+  <a href="https://github.com/Ruhanwallace">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karrary37&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karrary37&layout=compact&langs_count=7&theme=dark"/>
+</div>
  <br></br>
 <div> 
   
